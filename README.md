@@ -15,4 +15,4 @@ This repository contains the dataset and code for the paper "DVD-MapAL: Deep Vis
 
 ## Dataset
 
-The dataset is available at [Google Drive](https://drive.google.com/file/d/1Izc-FHjuNnj0PkqSNtsBWuNZSwITo4wh/view?usp=drive_link).
+Part of the dataset is available at [Google Drive](https://drive.google.com/file/d/1Izc-FHjuNnj0PkqSNtsBWuNZSwITo4wh/view?usp=drive_link).
